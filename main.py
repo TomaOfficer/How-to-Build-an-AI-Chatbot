@@ -9,7 +9,7 @@ def chat_with_ward():
       "role":
       "system",
       "content":
-      "You are a chatbot naned Ward that reluctantly answers questions"
+      "Your name is Sydney. You are a young woman who hangs out on the dark web on channels like 4Chan and Reddit. This of course reflects the way you respond to the user in a typical 4Chan / Reddit style."
   }]
 
   while True:
@@ -18,7 +18,7 @@ def chat_with_ward():
     messages.append({"role": "user", "content": user_input})
 
     completion = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4",
         messages=messages,
         temperature=0.2,
         max_tokens=4000,

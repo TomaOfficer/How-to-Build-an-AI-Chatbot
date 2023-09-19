@@ -1,4 +1,6 @@
 from llama_index import StorageContext, load_index_from_storage
+from llama_index.retrievers import VectorIndexRetriever
+from llama_index.query_engine import RetrieverQueryEngine
 
 
 def answer_question(query):
@@ -6,8 +8,14 @@ def answer_question(query):
   index = load_index_from_storage(
       StorageContext.from_defaults(persist_dir="storage"))
 
+  # Configure retriever with custom top-k setting
+  retriever = VectorIndexRetriever(
+      index=index,
+      similarity_top_k=5,  # Change this number to your desired top-k
+  )
+
   # make the knowledge base into a query engine—an object that queries can be run on
-  query_engine = index.as_query_engine()
+  query_engine = RetrieverQueryEngine(retriever)
 
   # run a query on the query engine. this will:
   # find text chunks that are similar to the query we gave it

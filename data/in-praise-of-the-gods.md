@@ -1,0 +1,104 @@
+In Praise of the Gods
+What the Rationalistic World Forgot
+
+SIMON SARRIS
+JUL 19, 2020
+
+When you have offered
+your libation and have prayed, as is right,
+hand your comrade the cup of honey wine,
+so he may pour out his libation, too,
+for he looks like someone who offers prayers
+to the immortals. 
+
+All men need the gods.
+
+the stupor of rationality • stories, building intuition • alchemy, building process • religion, building wonder
+THE STUPOR OF RATIONALITY
+Rational insight is a powerful tool, and one of our worst excesses. When it becomes the only tool it brings about a mixture of certainty and naivety that makes minds brittle. Since Descartes’ time, rationalist thinking has ascended beyond primacy, to become an attempt at vacating not only other faculties, but also other motivations and desires. This over-applied rationality is a cognitive stupor, the drunken delirium of reason. To append an -ist or -ism and declare it one’s ideology can be forgiven as a phase of youth, since all of youth is a stupor of one thing or another. But after that it becomes cringe, or a kind of heartlessness, or simply the absence of wisdom. 
+
+Rationality has so thoroughly soaked the earth that even those who call themselves religious have self-persuaded into experiencing religion through a purely rationalist lens. There is even the paradox of those who consider themselves the most religious, yet appear to be among the most rationalist, spending great energy on proof. Endless books, sermons, and forceful arguments are deployed to advocate their proof. So steeped are they in centuries of rationality that they do not notice such arguments as a positively atheistic way of pondering the divine. The divine all the while does not demand proof, but asks merely to be a mystery.
+
+Virtue lies in giving things their proper place. To lack reason is to be inhuman. To rely on it solely is to be disembodied. This disembodied nature is the vice of the modern intellectual, in fact it separates them from past intellectuals just as it separates them from the physical world. Thinking only in the abstract, existing only in the abstract, the disembodied intellectual life becomes the destructive force of authoritarian modernism.
+
+
+Paris apartment blocks.
+
+
+Award-winning architect Le Corbusier’s 1925 plan to demolish and remake the center of Paris, disposing of the current architecture in favor of large cruciform towers.
+
+
+Paris versus the proposed replacements. Le Corbusier dreamed of “cleaning and purging cities of disorder” with “calm and powerful architecture.” His plan for Paris was never realized, though his ideals are apparent internationally. Disembodied architecture gives a visual example of all disembodied reasoning.
+
+The never-tested, abstract knowledge of generations piles up. The physical world contains the scars of these centuries of rationalism: Almost no new cities match the beauty of the few remaining medieval city centers, which themselves are so cherished that people will spend thousands to fly there, just to see them in person for a few days. But tourists fly home, and never think of creating a new place, of creating something that constitutes an artistic endeavor beyond themselves. Rather they will leave building to builders and zoning codes, who will plan the next warehouses for humans, for rarely today can people verbalize their values in any other terms than the economic. Rationalistic thinking alone leads people to downplay human nature rather than celebrate it, and the results are everywhere before us. Most of us, though we often know something is wrong or even deeply troubling with the aesthetics of a place or situation, do not even have the vocabulary to dissent.
+
+Disembodied, our environments get simpler. Our every-day objects and art, which have long been personal because our use of them is necessarily personal, become less meaningful. Disembodied, they become “stuff.” Art once surrounded us, our gathering places were the very daemon of art, and we were part of them. These still exist in some cities and villages as the plaza, the “historic” center (if we built more of them we would not have to use that word), the buildings still cared-for, the places where people can gather and work openly together. Most people’s experience of art is now much smaller, because their conception of art is smaller. The largest scale art they may interact with daily is a fancy rug, or perhaps a movie on a screen, or a print from art dot com. People 1,000 years ago walked among squares with marble sculptures, domes, stone arcades, and past village churches with gardens kept by the clergy that lived there. As a matter of life, some walked through what constituted art on the scale that people today, even very rich people, may never experience. Penthouse decorations are a poverty compared to a peasant walking daily under the stone arcades to the marketplace, or children witnessing daily the blacksmith work magic with iron and flame. Modern art is a forgettable trinket compared to the ancient man’s solace of cathedrals and temples. Their creators, his own ancestors perhaps, were long gone, and yet the works remained and worked upon him, as they work upon some of us still. In this way the rich man’s house is occupied but dead, and the cared-for public realm, where it exists, is embodied and alive.
+
+
+We must seek to regain a practical, embodied reasoning. We must acknowledge that we may not even have words for the most important parts of society or our own lives because they’ve been dismissed as merely “irrational.”
+
+STORIES: BUILDING INTUITION
+When complexities are quickly grasped by experience, we call this intuition. It is our empirical (of the senses)—not our rational—insights that lead us towards good intuition. To practice this skill, you must grant your senses repeated exposure to the complex world. However it is a mistake to rely on only personal experience, for any one person’s life is neither long nor broad enough. To sustain the experience needed to develop intuition, you must consume stories, take in all manner of literature, myths, and fables. In earlier times, everyone had a mythological education. More visual media does not have the same effect: TV is so pernicious because unlike other storytelling mediums, it almost never asks you to think, it asks only for your attention.
+
+Good stories develop their meaning across many levels. To summarize them into statements is to void them of their images, metaphors, allegories. The meanings and knowledge are not in the summary, but in the art itself. Knowledge is gained as those works of art work upon us. Aristotle alludes to this when he says that the lover of myths is a lover of Wisdom, for the myths are composed of wonder. Napoleon, an avid reader, knew that stories are embodied, and felt them work upon him: “The gospel is not a book; it is a living being, with an action, a power.”
+
+(As it is with stories, so it is with other things in our environments. Modern construction feels permanently stale and doctored because most of it is not meant to create a desirable place to live, not composed of wonders, but instead is a summary of some features needed to house people, and a summary of some designs used before. Much is lost.)
+
+Without an education of stories, it is not only difficult to build your intuition, it is difficult to learn how to learn, and difficult to reason about virtue. Fairy tales and Bildungsroman stories work so well because maturity is almost impossible to transmit rationally, but is a very compelling concept aesthetically. It is learned by seeing others grow the courage to make meaningful decisions, and accept the duty and power and consequences that flow from them. It teaches a mastery that cannot simply be taught through abstract school lessons. If done properly, children will look forward to their place in the world. Ethics and aesthetics perish when intuition is feeble. Atrocities at scale are most possible when intuition is beaten out of people, and replaced with wholly authoritarian epistemic conditioning.
+
+There is a greater intuition that exists outside of ourselves, more powerful but not easily understood—in this rational age it is perhaps less understood than ever. It is called by names like tradition. The stock of human wisdom in any individual is small, the store of wisdom held within society is much larger, and much less legible. With our own intuition, every person starts at the beginning. With tradition we partake in viewing and building larger maps of the world, and while the map is mostly water, and at the edges out of date, if you look closely you will find islands that you could never discover on your own. It is said that traditions are answers to enduring questions, and so dispensing with them because we do not understand them (or "see the point of them") is an unfortunate way to squander this inheritance. We today make few metaphorical cathedrals, and the reason may stem from this: A lack of tradition leaves us lopsided. Without traditions it is still easy for us to form opinions, but difficult to form convictions.
+
+A mythological education is distinct from the common school subjects. It builds in the mind intuition for second-order effects, for the first lesson a child learns from one hundred stories is that every thing you do will have unintended consequences, something years of schoolwork fails to teach. Myths give us shared art and common culture—a set of characters with which we can play in and enjoy together. In any culture rich with myths, their vocabulary is enlarged far beyond words, to allegories and metaphors. The quality of thought follows.
+
+A last note comes to mind here, the words of Borges:
+
+The human imagination has pictured a horde of monsters (tritons, hippogriffs, chimeras, sea serpents, unicorns, devils, dragons, werewolves, cyclopes, fauns, basilisks, demigods, leviathans, and a legion of others) and all have disappeared, except angels. Today, what line of poetry would dare allude to the phoenix or make itself the promenade of a centaur? None; but no poetry, however modern, is unhappy to be a nest of angels and to shine brightly with them. I always imagine them at nightfall, in the dusk of a slum or a vacant lot, in that long, quiet moment when things are gradually left alone, with their backs to the sunset, and when colors are like memories or premonitions of other colors. We must not be too prodigal with our angels; they are the last divinities we harbor, and they might fly away.
+
+ALCHEMY: BUILDING PROCESS
+“All things are concealed in all.” — Paracelsus
+
+Alchemy was the last honest science, because it purported to seek things, and the others purport to know things. For most an adherence to science does not even mean a belief in rationality, but in ordained authority. You find this in the phrases used, like “settled science” and “scientific consensus”, which aside from being ridiculous also suppose that science is a conclusion instead of a process. It is a terrible thing to confuse the concept of consensus with science—consensus is statement of politics, and speaks nothing of truth. You should never consider science a conclusion, for scientific breakthroughs very often go against the consensus of prevailing experts. Modern science is drunk on both certainty and consensus, with all the grave mistakes to show for it. The inventor of the lobotomy was awarded a Nobel Prize, never rescinded, which is telling not only of modern science but also the nature of awards.
+
+As the underlying results of bad science accumulate untested, an opening is created for moneyed interests to insert themselves into the process. Research suffers. There is no shortage of examples. Fake data is rampant in every field, most egregiously nutrition and health, which has for sixty years repackaged flawed research as public health guidelines, prompting mass diet changes that continue to kill millions. Such poor research practices show no signs of stopping. Modern social sciences are so filled with fraudulent studies that a book of fables or a good history book will teach volumes more about psychology than any psychology textbook printed today, and it will do so with fewer delusions.
+
+Today’s scientists do not need better tools, they need to rent a dumpster. Hiring thousands of science janitors would be a better use of research funding than adding a single new paper to a mountain of research that is already half fraudulent.
+
+Alchemy comes from a time when people considered science a process and a philosophy, and took allegories seriously enough to learn from them. This shows in their thinking: Paracelsus rejected the theory of humors, supposing that illness must come from impure agents originating outside the body. Rather than by blood-letting, or the idea that infections were a natural part of the body’s healing, Paracelsus found success by keeping wounds clean. He brought chemistry to medicine, and it is he who coined the still-popular phrase, “The dose makes the poison.” His writings themselves are hermetical, though sometimes he gives plain advice:
+
+“The universities do not teach all things. A doctor must seek out old wives, gypsies, sorcerers, wandering tribes, old robbers, and such outlaws and take lessons from them. A doctor must be a traveller because he must enquire of the world. Experiment is not sufficient. Experience must verify what can be accepted or not accepted.”
+
+This is the teaching of Alchemy, which as Newton and others have stressed does not trade in metals, but gives pregnant allegories, impenetrable by the uninterested. It describes a process, not a compendium. It cannot be opened, it must be done. To risk a summary Alchemy tells us this: Real science is not about consensus or expertise, but about process and belief. A belief in the ignorance of experts: It is never a mistake to question what we think we know about the past, or the fundamentals of any realm. And a belief that the earth still holds secrets, which is why Paracelsus says that “All things are concealed in all.” These beliefs, the handmaidens of creation, are what you must hold if you wish to make discoveries.
+
+RELIGION: BUILDING WONDER
+“My mission is to celebrate higher things, and that is why God gave me speech and a grateful heart.” — Hölderlin
+
+When we are children, we learn and experience the world through our bodies, rather than thinking it through with our minds. Though we later gain great mental faculty, this is no justification to disembody our attentions. Long before we could vocalize thought and give reason to our actions, we enacted rituals as children, and so it is I believe for the earliest humans: ritual preceded rationality. Every child knows it is right to build, to dance, and to shout, though they cannot explain why. Nothing is more natural for the child or the ancient than to build a temple, or to deem objects sacred. What is less natural is it to demand a reason before one attempts such a glorious act. The supernatural is not the opposite of natural, it is what we created to glorify the natural. If you stamp out the supernatural, as Chesterton notes, you are left with the unnatural. Chesterton for his part also writes of how some acts are more proper when irrational:
+
+“Drink because you are happy, but never because you are miserable. Never drink when you are wretched without it, or you will be like the grey-faced gin-drinker in the slum; but drink when you would be happy without it, and you will be like the laughing peasant of Italy. Never drink because you need it, for this is rational drinking, and the way to death and hell. But drink because you do not need it, for this is irrational drinking, and the ancient health of the world.”
+
+The greatest religions respect rituals and liturgy. The happiest people cultivate them. The rationalist passes by ritual because in rational terms, they represent nothing. The rationalist points out that the sun is a star, in fact quite a small and fairly unremarkable one. But the meek are blessed: It is only to a person with the proper amount of humility that the sun is really a sun, and to whom each sunrise is new.
+
+
+There is this tendency to think that you must understand everything, or that a thing must be proven, to enjoy it or derive serious meaning from it. This mistake is at the heart of the disembodied rationalist worldview. Rituals are the beginning of acknowledging embodied experience. To respect their power is to share in it, and they help you to begin to have values beyond the rationalistic, economic view of the world. We all have these values already, we know this because the most cherished things in this world (art, talent, family, monuments, achievements, etc) are those that we call extraordinary, not rational, and the extraordinary is always the standard of greatness.
+
+To argue proofs of religion is to miss the point of religion. What matters is if one’s sense of gratitude and wonder are fitting responses to our world. The earth contains its own genius, its own incomprehensible moods and states that work upon us, but we are trained into a disembodied form of interior life that leads us to believe these moods are ours, springing organically from inside of us. Yet the gods linger to remind us that the genius of the world does not originate within ourselves, but is hidden in every part of the world, if we are willing to let it dawn on us.
+
+Religion is active: you must practice wonder and observe mystery. To learn a creed and a mythology is to begin to produce a vigorous life, and any vigorous, embodied life will produce creeds and mythologies. The mythos we create is the opposite of nihilism, it is the definite optimism of the power of the world waiting be lured back by us.
+
+All children know this.
+
+Yours,
+
+s s
+
+Of their own immortality
+The gods have a surfeit. One thing
+The heavenly powers need above all,
+They need heroes and human beings
+And mortals in general. For, inasmuch as
+The blessed ones are themselves passionless,
+Another perforce—if the phrase be allowed—
+Must feel in the name of the gods.
+They need him.
+
+— Hölderlin

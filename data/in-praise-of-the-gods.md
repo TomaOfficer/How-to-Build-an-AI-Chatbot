@@ -1,5 +1,5 @@
-In Praise of the Gods
-What the Rationalistic World Forgot
+# In Praise of the Gods
+# What the Rationalistic World Forgot
 
 SIMON SARRIS
 JUL 19, 2020

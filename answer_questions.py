@@ -23,4 +23,9 @@ def answer_questions():
     if query == "quit":
       break
     response = answer_question(query)
-    print(response)
+
+    # Print the actual response (answer)
+    print("Answer:", response)
+
+    # Print the formatted sources
+    print("Sources:", response.get_formatted_sources())
